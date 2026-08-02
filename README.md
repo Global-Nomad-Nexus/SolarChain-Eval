@@ -1,14 +1,15 @@
 ﻿<h2 align="center">SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets</h2>
 
 <p align="center">
-  <b>Shilin Ou</b><sup>1,*</sup> &nbsp;&bull;&nbsp;
-  <b>Yifan Xu</b><sup>1,*</sup> &nbsp;&bull;&nbsp;
-  <b>Luyao Zhang</b><sup>1</sup>
+  <b>Shilin Ou</b><sup>1,+</sup> &nbsp;&bull;&nbsp;
+  <b>Yifan Xu</b><sup>1,+</sup> &nbsp;&bull;&nbsp;
+  <b>Luyao Zhang</b><sup>1,*</sup>
 </p>
 
 <p align="center">
   <sup>1</sup>Duke Kunshan University &nbsp;&bull;&nbsp;
-  <sup>*</sup>Equal contribution
+  <sup>+</sup>Equal contribution
+  <sup>*</sup>Corresponding author (lz183@duke.edu)
 </p>
 
 <p align="center">
