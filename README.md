@@ -27,6 +27,20 @@
   <img src="assets/front_page.png" width="85%" alt="SolarChain-Eval benchmark overview">
 </p>
 
+## Research Outputs
+
+| Output | Description | Access |
+|---|---|:---:|
+| Manuscript | *SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets* | [PDF](docs/publications/solarchain-eval-paper-neurips2026.pdf) |
+| Conference poster | Updated KDD 2026 submission poster | [PDF](docs/publications/solarchain-eval-poster-kdd2026-submission.pdf) |
+| Archived poster | Earlier poster variant retained for provenance | [PDF](docs/publications/solarchain-eval-poster-draft.pdf) |
+| Publication archive | Compilation notes and version details | [Open](docs/publications/README.md) |
+
+<p align="center">
+  <a href="docs/publications/solarchain-eval-paper-neurips2026.pdf"><img src="https://img.shields.io/badge/Paper-PDF-8B1E3F?style=for-the-badge" alt="Read the manuscript"></a>
+  <a href="docs/publications/solarchain-eval-poster-kdd2026-submission.pdf"><img src="https://img.shields.io/badge/Poster-PDF-1F5C99?style=for-the-badge" alt="View the poster"></a>
+</p>
+
 ## Abstract
 
 SolarChain-Eval is a physics-constrained benchmark for evaluating trustworthy economic agents in decentralized peer-to-peer solar energy markets. It formulates market governance as a Gymnasium-compatible Markov Decision Process where agents make hourly decisions over reward allocation, liquidity support, and token burning. The benchmark evaluates policies across market utility, physical safety, slippage, action smoothness, spatial fairness, and auditability. It also includes an evaluation-only LLM Planner/Auditor layer that defines episode-level action bounds, triggers audits under risk signals, revises high-risk actions, and records structured intervention traces. Experiments with static, random, myopic, RL, and RL+LLM policies show a clear utility-safety trade-off: RL agents can improve economic utility, but reward-maximizing behavior may exploit invalid generation and inflate artificial liquidity when physics penalties are removed. The agentic governance layer improves auditability and mitigates selected risks, but it cannot fully compensate for a misspecified reward. SolarChain-Eval therefore emphasizes that trustworthy agentic AI evaluation in cyber-physical markets requires both physical constraints and transparent intervention records.
@@ -258,4 +272,3 @@ python scripts/evaluate.py --help
 For full artifact reproduction instructions, see [artifact_pipeline/README.md](artifact_pipeline/README.md).
 
 It documents the official Linux artifact pipeline, output layout, resume guidance, metrics, figures, and acceptance checks.
-
