@@ -1,7 +1,32 @@
-# Publication PDFs
+# Publication links and citation
 
-- [`solarchain-eval-paper-neurips2026.pdf`](solarchain-eval-paper-neurips2026.pdf) — compiled NeurIPS 2026 manuscript (12 pages).
-- [`solarchain-eval-poster-kdd2026-submission.pdf`](solarchain-eval-poster-kdd2026-submission.pdf) — rebuilt KDD 2026 submission poster with the updated author markers and acknowledgments (1 page).
-- [`solarchain-eval-poster-draft.pdf`](solarchain-eval-poster-draft.pdf) — earlier poster variant retained for provenance (1 page).
+**SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets**
 
-These PDFs were compiled from the corresponding Overleaf sources on 2026-09-20.
+- Paper: [OpenReview](https://openreview.net/forum?id=XcWTS5iVvY)
+- Official workshop website: [KDD Workshop on Evaluation and Trustworthiness of Agentic AI 2026](https://kdd-eval-workshop.github.io/agenticai-evaluation-kdd2026/#papers)
+- Paper on the KDD workshop website: [Paper on the KDD workshop website](https://kdd-eval-workshop.github.io/agenticai-evaluation-kdd2026/assets/papers/25_SolarChain_Eval_A_Physics_C.pdf)
+- arXiv: [arXiv](https://arxiv.org/abs/2607.08681)
+
+The repository does not distribute manuscript or manuscript-supplement PDFs. Use the official paper links above when available.
+
+## Citation
+
+```bibtex
+@inproceedings{
+ou2026solarchaineval,
+title={SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets},
+author={Shilin Ou and Yifan Xu and Luyao Zhang},
+booktitle={KDD workshop on Evaluation and Trustworthiness of Agentic AI},
+year={2026},
+url={https://openreview.net/forum?id=XcWTS5iVvY}
+}
+```
+
+Machine-readable citation: [`CITATION.bib`](../../CITATION.bib).
+
+## Presentation materials
+
+Posters and presentation slides remain available separately from the manuscript.
+
+- [`solarchain-eval-poster-draft.pdf`](solarchain-eval-poster-draft.pdf)
+- [`solarchain-eval-poster-kdd2026-submission.pdf`](solarchain-eval-poster-kdd2026-submission.pdf)

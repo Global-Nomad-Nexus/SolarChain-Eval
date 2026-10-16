@@ -27,17 +27,25 @@
   <img src="assets/front_page.png" width="85%" alt="SolarChain-Eval benchmark overview">
 </p>
 
+## Official publication links
+
+- [KDD Workshop on Evaluation and Trustworthiness of Agentic AI 2026](https://kdd-eval-workshop.github.io/agenticai-evaluation-kdd2026/#papers)
+- [Read the paper](https://openreview.net/forum?id=XcWTS5iVvY)
+- [Paper on the KDD workshop website](https://kdd-eval-workshop.github.io/agenticai-evaluation-kdd2026/assets/papers/25_SolarChain_Eval_A_Physics_C.pdf)
+- [arXiv](https://arxiv.org/abs/2607.08681)
+- [Citation and publication details](docs/publications/README.md) · [BibTeX](CITATION.bib)
+
 ## Research Outputs
 
 | Output | Description | Access |
 |---|---|:---:|
-| Manuscript | *SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets* | [PDF](docs/publications/solarchain-eval-paper-neurips2026.pdf) |
+| Manuscript | *SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets* | [OpenReview](https://openreview.net/forum?id=XcWTS5iVvY) |
 | Conference poster | Updated KDD 2026 submission poster | [PDF](docs/publications/solarchain-eval-poster-kdd2026-submission.pdf) |
 | Archived poster | Earlier poster variant retained for provenance | [PDF](docs/publications/solarchain-eval-poster-draft.pdf) |
-| Publication archive | Compilation notes and version details | [Open](docs/publications/README.md) |
+| Publication archive | Official paper links and citation | [Open](docs/publications/README.md) |
 
 <p align="center">
-  <a href="docs/publications/solarchain-eval-paper-neurips2026.pdf"><img src="https://img.shields.io/badge/Paper-PDF-8B1E3F?style=for-the-badge" alt="Read the manuscript"></a>
+  <a href="https://openreview.net/forum?id=XcWTS5iVvY"><img src="https://img.shields.io/badge/Paper-OpenReview-8B1E3F?style=for-the-badge" alt="Read the manuscript"></a>
   <a href="docs/publications/solarchain-eval-poster-kdd2026-submission.pdf"><img src="https://img.shields.io/badge/Poster-PDF-1F5C99?style=for-the-badge" alt="View the poster"></a>
 </p>
 

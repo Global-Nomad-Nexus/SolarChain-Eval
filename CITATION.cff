@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the paper using the preferred citation below."
+type: software
+title: "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets"
+repository-code: "https://github.com/Global-Nomad-Nexus/SolarChain-Eval"
+authors:
+  - family-names: Ou
+    given-names: Shilin
+  - family-names: Xu
+    given-names: Yifan
+  - family-names: Zhang
+    given-names: Luyao
+preferred-citation:
+  type: conference-paper
+  title: "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets"
+  authors:
+    - family-names: Ou
+      given-names: Shilin
+    - family-names: Xu
+      given-names: Yifan
+    - family-names: Zhang
+      given-names: Luyao
+  year: 2026
+  collection-title: "KDD Workshop on Evaluation and Trustworthiness of Agentic AI 2026"
+  url: "https://openreview.net/forum?id=XcWTS5iVvY"
